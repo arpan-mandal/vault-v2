@@ -52,7 +52,7 @@ function generateSessionSecret() {
 function ensureEnvFile() {
   if (fs.existsSync(ENV_PATH)) return;
   const generatedSecret = generateSessionSecret();
-  const contents = `PORT=3000\nADMIN_USERNAME=${DEFAULT_ADMIN_USERNAME}\nADMIN_PASSWORD=${DEFAULT_ADMIN_PASSWORD}\nSESSION_SECRET=${generatedSecret}\nMAX_FILE_SIZE=104857600\n`;
+  const contents = `PORT=3000\nADMIN_USERNAME=${DEFAULT_ADMIN_USERNAME}\nADMIN_PASSWORD=${DEFAULT_ADMIN_PASSWORD}\nSESSION_SECRET=${generatedSecret}\nMAX_FILE_SIZE=5368709120\n`;
   try {
     fs.writeFileSync(ENV_PATH, contents, { flag: 'wx', mode: 0o600 });
     FIRST_RUN = true;
