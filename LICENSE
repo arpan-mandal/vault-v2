@@ -1,0 +1,21 @@
+Vertos Attribution License 1.0
+
+Copyright (c) 2026 Vertos
+
+Permission is granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to use, copy, modify, host, and redistribute the Software, subject to the following conditions:
+
+1. Attribution. Every deployed user interface derived substantially from the Software must retain a clear and readable "Vault | Powered by Vertos" attribution on the primary application interface, with "Vertos" linking to https://vertos.in. The attribution may not be removed, hidden, obscured, renamed, or made materially less prominent than in the original Software.
+
+2. Protected attribution. Technical measures included with the Software to verify or render the required attribution may not be removed, disabled, bypassed, or intentionally circumvented in a deployed or redistributed copy.
+
+3. Redistribution. Any source or redistributed copy of the Software, including modified copies, must include this LICENSE file and the NOTICE file without removing their copyright, attribution, or trademark notices.
+
+4. Modifications. Except for the attribution and protected-attribution requirements above, modification of the Software is permitted. Modified versions must not represent themselves as an official Vertos release unless authorized by Vertos.
+
+5. Trademarks. This license does not grant ownership of, or a general license to use, the Vertos or Vault names, logos, trade dress, or other brand identifiers. The limited display of the attribution required by this license is permitted solely for compliance with Section 1.
+
+6. No warranty. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+7. Termination. Rights granted under this license terminate automatically upon material breach. Rights are reinstated when the breach is fully cured, unless Vertos has notified the licensee in writing that reinstatement is denied because of repeated or intentional breach.
+
+This is a source-available license and is not represented as an OSI-approved open-source license.
